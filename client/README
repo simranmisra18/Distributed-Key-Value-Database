@@ -1,0 +1,12 @@
+# C++ Client
+
+## Compile
+```bash
+make
+```
+
+## Execute
+```bash
+./execute.sh GET <KEY>
+./execute.sh PUT <KEY> <VALUE>
+```

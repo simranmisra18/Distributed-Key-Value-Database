@@ -1,0 +1,13 @@
+# C++ Server
+
+## Compile
+```bash
+make
+```
+
+## Execute
+```bash
+./execute.sh
+```
+
+The server binds to the current hostname when it appears in `../server-hostnames.txt`. Logs are written to `logs/<hostname>-stderr.log`; persistent data is stored in `<hostname>.dat`.

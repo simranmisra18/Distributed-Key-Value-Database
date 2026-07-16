@@ -1,0 +1,7 @@
+dc05.utdallas.edu
+dc10.utdallas.edu
+dc15.utdallas.edu
+dc30.utdallas.edu
+dc36.utdallas.edu
+dc37.utdallas.edu
+dc38.utdallas.edu
